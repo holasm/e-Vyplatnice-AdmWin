@@ -1,0 +1,138 @@
+[10/05/2020 15:22:27]-Vytvoøení log souboru - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:22:27]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:22:27]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:22:27]-Vıplatnice pro Malíková           ÌŠÈØİÁÍÉÏÚÙ    byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:22:27]-Vıplatnice pro Nedomová           Hana             byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:22:27]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:22:27]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:30:58]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:30:59]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:31:01]-Vıplatnice pro 10004Hauerová           Marcela          byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:31:01]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:31:01]-Vıplatnice pro 13130Neveselá           Dana             byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:31:01]-Vıplatnice pro 93949Nedomová           Hana             byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:31:01]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:31:01]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:32:38]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:32:39]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:32:40]-Vıplatnice pro 10004-Hauerová           Marcela          byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:32:40]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo Kolísek            Richard          - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:32:40]-Vıplatnice pro 13130-Neveselá           Dana             byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:32:40]-Vıplatnice pro 93949-Nedomová           Hana             byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:32:40]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:32:40]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:35:13]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:35:13]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:35:14]-Chyba odesilání mailu @{oscis=10004; heslo=            ; email=michal.holas@zkl.cz                               ; jmeno=Marcela         ; prijmeni=Hauerová          ; celejmeno=Hauerová           Marcela         ; ErrDB=0} - Method invocation failed because [System.Decimal] does not contain a method named 'Trim'.
+[10/05/2020 15:35:14]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo Kolísek            Richard - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:35:14]-Chyba odesilání mailu @{oscis=13130; heslo=            ; email=michal.holas@zkl.cz                               ; jmeno=Dana            ; prijmeni=Neveselá          ; celejmeno=Neveselá           Dana            ; ErrDB=0} - Method invocation failed because [System.Decimal] does not contain a method named 'Trim'.
+[10/05/2020 15:35:14]-Chyba odesilání mailu @{oscis=93949; heslo=104374488   ; email=michal.holas@zkl.cz                               ; jmeno=Hana            ; prijmeni=Nedomová          ; celejmeno=Nedomová           Hana            ; ErrDB=0} - Method invocation failed because [System.Decimal] does not contain a method named 'Trim'.
+[10/05/2020 15:35:14]-Poèet chyb pøi zpracování 4
+[10/05/2020 15:35:14]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:36:27]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:36:27]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:36:28]-Vıplatnice pro 10004 - Hauerová           Marcela byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:36:28]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo Kolísek            Richard - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:36:28]-Vıplatnice pro 13130 - Neveselá           Dana byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:36:28]-Vıplatnice pro 93949 - Nedomová           Hana byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:36:28]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:36:28]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:38:12]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:38:12]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:38:12]-Vıplatnice pro 10004 - Hauerová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:38:12]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo Kolísek            Richard - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:38:13]-Vıplatnice pro 13130 - Neveselá byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:38:13]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:38:13]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:38:13]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:38:59]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:38:59]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:39:00]-Vıplatnice pro 10004 - Hauerová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:39:00]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo Kolísek - Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:39:00]-Vıplatnice pro 13130 - Neveselá byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:39:00]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:39:00]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:39:00]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:40:29]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:40:29]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:40:30]-Vıplatnice pro 10004 - Hauerová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:40:30]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:40:30]-Vıplatnice pro 13130 - Neveselá byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:40:30]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:40:30]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:40:30]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:41:50]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:41:50]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:41:51]-Vıplatnice pro 10004 - Hauerová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:41:51]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:41:51]-Vıplatnice pro 13130 - Neveselá byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:41:51]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:41:51]-Poèet chyb pøi zpracování 1
+[10/05/2020 15:41:51]-KONEC ZPRACOVÁNÍ
+[10/05/2020 15:49:29]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:49:29]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:52:09]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:52:09]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:52:20]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:52:20]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:53:18]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:53:18]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:54:29]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 15:54:29]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 15:54:36]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Hauerová, Vyplata_pro_os_c_10004_za_2020_ 8.pdf
+[10/05/2020 15:54:36]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 15:54:36]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Neveselá, Vyplata_pro_os_c_13130_za_2020_ 8.pdf
+[10/05/2020 15:54:37]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 15:54:37]-Poèet chyb pøi zpracování 3
+[10/05/2020 15:54:37]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:01:23]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:01:23]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:01:26]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:01:26]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:04:15]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:04:15]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:04:16]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:04:16]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:06:45]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:06:45]-Nic ke zpracování... Nejprve spuste export vıplatnic.
+[10/05/2020 16:06:52]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:06:52]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:06:53]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:06:53]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:07:25]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:07:25]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:07:26]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 16:07:26]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Neveselá, Vyplata_pro_os_c_13130_za_2020_ 8.pdf
+[10/05/2020 16:07:26]-Poèet chyb pøi zpracování 2
+[10/05/2020 16:07:26]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:10:45]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:10:45]-Nic ke zpracování... Nejprve spuste export vıplatnic.
+[10/05/2020 16:11:03]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:11:03]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:11:05]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:11:05]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:12:08]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:12:08]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:12:10]-Vıplatnice pro 13130 - Neveselá byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:12:10]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:12:10]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:12:36]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:12:36]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:12:37]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 16:12:37]-Poèet chyb pøi zpracování 1
+[10/05/2020 16:12:37]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:13:23]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:13:23]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:13:24]-CHYBA: Opravte v databázi chybnı email nebo prázdné heslo - Kolísek, Vyplata_pro_os_c_10006_za_2020_ 8.pdf
+[10/05/2020 16:13:24]-Poèet chyb pøi zpracování 1
+[10/05/2020 16:13:24]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:14:29]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:14:29]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:14:31]-Vıplatnice pro 93949 - Nedomová byla odeslána na email michal.holas@zkl.cz                               
+[10/05/2020 16:14:31]-KONEC ZPRACOVÁNÍ
+[10/05/2020 16:26:21]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:26:21]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:27:45]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:27:45]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
+[10/05/2020 16:29:15]-Pøidávání dat do log souboru (další spuštìní) - c:\eVyplatnice-AdmWin\2020-10-05.log
+[10/05/2020 16:29:15]-ZAHÁJENO ZPRACOVANÍ A ODESÍLÁNÍ VİPLATNIC eMAILEM
